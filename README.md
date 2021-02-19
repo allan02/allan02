@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <strong>Certification</strong><hr/>
 <ul>
   <li>컴퓨터활용능력 1급</li><br>
-</ul><br>
+</ul>
 
