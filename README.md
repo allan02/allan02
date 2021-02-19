@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 <br>
-🌱AI & Data analysis<br>
-🌱Full Stack Developer<br>
+<strong>🌱AI & Data analysis</strong><br>
+<strong>🌱Full Stack Developer</strong><br><br>
 
 <strong>2019</strong><hr/>
 <ul>
-  <li>City University of Hong Kong exchange student</li><br>
-  <li>e-ICON World Contest Mentor</li>
+  <li><strong>City University of Hong Kong</strong> exchange student</li><br>
+  <li><strong>e-ICON World Contest<strong> Mentor</li>
 </ul><br>
 
 <strong>2020</strong><hr/>
