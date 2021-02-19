@@ -37,5 +37,10 @@ Here are some ideas to get you started:
 <ul>
   <li>'SW중심대학 공동해커톤' 참여</li><br>
   <li>'생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회' 참여</li>
-</ul>
+</ul><br>
+
+<strong>Certification</strong><hr/>
+<ul>
+  <li>컴퓨터활용능력 1급</li><br>
+</ul><br>
 
