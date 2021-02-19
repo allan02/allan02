@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   <li>SW중심대학 공동해커톤 참여</li><br>
   <li>생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회 참여</li>
 </ul>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:allan3129@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan3129@gmail.com)](mailto:allan3129@gmail.com)
