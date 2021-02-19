@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->  
 <br>
 <strong>🌱AI & Data analysis</strong><br><br>
-<strong>🌱Full Stack Developer</strong><br><br>
+<strong>🌱Full Stack Developer</strong><br><br><br>
 
 <strong>2019</strong><hr/>
 <ul>
