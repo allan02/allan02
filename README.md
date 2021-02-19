@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <li>AI야, 진짜 뉴스를 찾아줘! <strong>14위 / 544팀 참여</strong></li><br>
   <li>2020 인공지능 경진대회 "NLP를 이용한 증시 지표 예측" <strong>대상 수상</strong></li><br>
   <li>2020 DACON CUP GA 데이터 <strong>29위 / 483팀 참여</strong></li><br>
-  <li>시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 <strong>60위 / 1374팀 참여</strong></li><br>
+  <li>시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 <strong>60위 / 1374팀 참여</strong></li>
 </ul><br>
 
 <strong>2021</strong><hr/>
