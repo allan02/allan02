@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 <br>
-<strong>🌱AI & Data analysis</strong><br><br>
-<strong>🌱Full Stack Developer</strong><br><br><br>
+<strong>🌱 AI & Data analysis</strong><br><br>
+<strong>🌱 Full Stack Developer</strong><br><br><br>
 
 <strong>2019</strong><hr/>
 <ul>
@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 <strong>2021</strong><hr/>
 <ul>
   <li>SW중심대학 공동해커톤 참여</li>  
+  <li>생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회 참여</li>
 </ul>
 
