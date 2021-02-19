@@ -12,18 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-  
-<h2>🌱AI & Data analysis</h2><br>
+<br>
+🌱AI & Data analysis<br>
+🌱Full Stack Developer<br>
 
 <strong>2019</strong><hr/>
 <ul>
-  <li>City University of Hong Kong exchange student</li>
+  <li>City University of Hong Kong exchange student</li><br>
   <li>e-ICON World Contest Mentor</li>
 </ul><br>
 
 <strong>2020</strong><hr/>
 <ul>
-  <li>공공 데이터를 활용한 IoT 디바이스 만들기 프로그램 수료</li>
+  <li>공공 데이터를 활용한 IoT 디바이스 만들기 프로그램 수료</li><br>
   <li>단국대 소·중 데이터 분석 AI 경진대회 <strong>15위 / 104팀 참여</strong></li><br>
   <li>소설 작가 분류 AI 경진대회 <strong>4위 / 762팀 참여</strong></li><br>
   <li>AI야, 진짜 뉴스를 찾아줘! <strong>14위 / 544팀 참여</strong></li><br>
