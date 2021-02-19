@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <strong>2021</strong><hr/>
 <ul>
-  <li>SW중심대학 공동해커톤 참여</li>  
+  <li>SW중심대학 공동해커톤 참여</li><br>
   <li>생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회 참여</li>
 </ul>
 
