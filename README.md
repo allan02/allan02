@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 <strong>2021</strong><hr/>
 <ul>
   <li>'SW중심대학 공동해커톤' 참가</li><br>
-  <li>'생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회' 참가</li>
+  <li>'생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회' 참가</li><br>
+  <li>운동 동작 분류 AI 경진대회 <strong>32위 / 772팀 참가</strong></li>
 </ul><br>
 
 <strong>Certification</strong><hr/>
