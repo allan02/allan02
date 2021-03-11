@@ -43,6 +43,5 @@ Here are some ideas to get you started:
 <strong>Certification</strong><hr/>
 <ul>
   <li>컴퓨터활용능력 1급</li><br>
-  <li>파이썬프로그래밍활용능력 2급</li>
 </ul>
 
