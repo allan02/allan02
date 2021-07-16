@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <strong>2019</strong><hr/>
 <ul>
   <li><strong>City University of Hong Kong</strong> exchange student</li><br>
-  <li><strong>e-ICON World Contest</strong> Mentor</li>
+  <li><strong>대한민국 교육부 ) </strong>e-ICON World Contest<strong> Mentor</strong></li>
 </ul><br>
 
 <strong>2020</strong><hr/>
