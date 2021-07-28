@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <ul>
   <li><strong>SW중심대학 ) </strong>'SW중심대학 공동해커톤' 참가</li><br>
   <li><strong>경기대진테크노파크 ) </strong>'생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회' 참가</li><br>
-  <li><strong>DACON ) </strong>운동 동작 분류 AI 경진대회 <strong>32위 / 772팀 참가</strong></li>
-  <li><strong>삼성SDS ) </strong>삼성SDS 2021하계 알고리즘 특강 수료</li>
+  <li><strong>DACON ) </strong>운동 동작 분류 AI 경진대회 <strong>32위 / 772팀 참가</strong></li><br>
+  <li><strong>삼성SDS ) </strong>삼성SDS 2021 하계 알고리즘 특강 수료</li>
 </ul><br>
 
 <strong>Certification</strong><hr/>
