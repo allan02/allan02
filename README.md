@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <strong>2020</strong><hr/>
 <ul>
-  <li><strong>단국대학교 공학교육혁신센터 ) </strong>'공공 데이터를 활용한 IoT 디바이스 만들기' 수료 (2020.7.13 ~ 2020.7.17)</li><br>
+  <li><strong>단국대학교 공학교육혁신센터 ) </strong>'공공 데이터를 활용한 IoT 디바이스 만들기' 수료 ( 2020.7.13 ~ 2020.7.17 )</li><br>
   <li><strong>단국대학교 SW중심대학사업단 ) </strong>단국대 소·중 데이터 분석 AI 경진대회 <strong>15위 / 104팀 참가</strong></li><br>
   <li><strong>DACON ) </strong>소설 작가 분류 AI 경진대회 <strong>4위 / 762팀 참가</strong></li><br>
   <li><strong>NH투자증권 ) </strong>AI야, 진짜 뉴스를 찾아줘! <strong>14위 / 544팀 참가</strong></li><br>
