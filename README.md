@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <strong>2019</strong><hr/>
 <ul>
-  <li><strong>City University of Hong Kong</strong> exchange student   (2019. 7. 10 ~ 2019. 8. 7)</li><br>
-  <li><strong>대한민국 교육부 ) </strong>e-ICON World Contest<strong> Mentor   </strong>(2019. 8. 18 ~ 2019. 8. 23)</li>
+  <li><strong>City University of Hong Kong</strong> exchange student (2019. 7. 10 ~ 2019. 8. 7)</li><br>
+  <li><strong>대한민국 교육부 ) </strong>e-ICON World Contest<strong> Mentor </strong>(2019. 8. 18 ~ 2019. 8. 23)</li>
 </ul><br>
 
 <strong>2020</strong><hr/>
 <ul>
-  <li><strong>단국대학교 공학교육혁신센터 ) </strong>'공공 데이터를 활용한 IoT 디바이스 만들기' 수료   (2020. 7. 13 ~ 2020. 7. 17)</li><br>
+  <li><strong>단국대학교 공학교육혁신센터 ) </strong>'공공 데이터를 활용한 IoT 디바이스 만들기' 수료 (2020. 7. 13 ~ 2020. 7. 17)</li><br>
   <li><strong>단국대학교 SW중심대학사업단 ) </strong>단국대 소·중 데이터 분석 AI 경진대회 <strong>15위 / 104팀 참가</strong></li><br>
   <li><strong>DACON ) </strong>소설 작가 분류 AI 경진대회 <strong>4위 / 762팀 참가</strong></li><br>
   <li><strong>NH투자증권 ) </strong>AI야, 진짜 뉴스를 찾아줘! <strong>14위 / 544팀 참가</strong></li><br>
@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 <strong>2021</strong><hr/>
 <ul>
-  <li><strong>SW중심대학 ) </strong>'SW중심대학 공동해커톤' 참가   (2021. 2. 4 ~ 2020. 2. 6)</li><br>
+  <li><strong>SW중심대학 ) </strong>'SW중심대학 공동해커톤' 참가 (2021. 2. 4 ~ 2020. 2. 6)</li><br>
   <li><strong>경기대진테크노파크 ) </strong>'생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회' 참가</li><br>
   <li><strong>DACON ) </strong>운동 동작 분류 AI 경진대회 <strong>32위 / 772팀 참가</strong></li><br>
-  <li><strong>삼성SDS ) </strong>'삼성SDS 2021 하계 알고리즘 특강' 수료</li><br>
+  <li><strong>삼성SDS ) </strong>'삼성SDS 2021 하계 알고리즘 특강' 수료 (2021. 7. 5 ~ 2021. 7. 16)</li><br>
   <li><strong>Brno University of Technology ) </strong>'Brno International Summer School in Information Technology' 수료</li>
 </ul><br>
 
