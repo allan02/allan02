@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <li><strong>DACON ) </strong>운동 동작 분류 AI 경진대회 <strong>32위 / 772팀 참가</strong></li><br>
   <li><strong>삼성SDS ) </strong>'삼성SDS 2021 하계 알고리즘 특강' 수료 (7. 5 ~ 7. 16)</li><br>
   <li><strong>Brno University of Technology ) </strong>'Brno International Summer School in Information Technology' 수료 (7. 7 ~ 7. 23)</li><br>
-  <li><strong>IBK기업은행 ) </strong>IBK기업은행 2021년 하계 체험형 청년인턴 (7. 28 ~ 8. 31)</li>
+  <li><strong>IBK기업은행 ) </strong>IBK기업은행 2021년 하계 청년인턴(25기) <strong>“우수인턴”</strong></li>
 </ul><br>
 
 <strong>Certification</strong><hr/>
