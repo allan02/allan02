@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <li><strong>단국대학교 SW중심대학사업단 ) </strong>단국대 소·중 데이터 분석 AI 경진대회 <strong>15위 / 104팀 참가</strong></li><br>
   <li><strong>DACON ) </strong>소설 작가 분류 AI 경진대회 <strong>4위 / 762팀 참가</strong></li><br>
   <li><strong>NH투자증권 ) </strong>AI야, 진짜 뉴스를 찾아줘! <strong>14위 / 544팀 참가</strong></li><br>
-  <li><strong>과학기술정보통신부 ) </strong>2020 인공지능 경진대회 NLP를 이용한 증시 지표 예측 <strong>대상 수상</strong></li><br>
+  <li><strong>과학기술정보통신부 ) </strong>2020 인공지능 경진대회 - NLP를 이용한 증시 지표 예측 <strong>대상 수상</strong></li><br>
   <li><strong>DACON ) </strong>2020 DACON CUP GA 데이터 <strong>29위 / 483팀 참가</strong></li><br>
   <li><strong>LG ) </strong>시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 <strong>60위 / 1374팀 참가</strong></li>
 </ul><br>
