@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <li><strong>단국대학교 SW중심대학사업단 ) </strong><a href="https://dacon.io/competitions/official/235638/overview/description">단국대 소·중 데이터 분석 AI 경진대회</a> <strong>15위 / 104팀 참가</strong></li><br>
   <li><strong>DACON ) </strong><a href="https://dacon.io/competitions/official/235670/overview/description">소설 작가 분류 AI 경진대회</a> <strong>4위 / 762팀 참가</strong></li><br>
   <li><strong>NH투자증권 ) </strong><a href="https://dacon.io/competitions/official/235658/overview/description">AI야, 진짜 뉴스를 찾아줘!</a> <strong>14위 / 544팀 참가</strong></li><br>
-  <li><strong>과학기술정보통신부 ) </strong>2020 인공지능 경진대회 - NLP를 이용한 증시 지표 예측 <strong>대상 수상</strong></li><br>
+  <li><strong>과학기술정보통신부 ) </strong><a href="https://www.dankook.ac.kr/web/kor/dku-today?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=731058">2020 인공지능 경진대회</a> - NLP를 이용한 증시 지표 예측 <strong>대상 수상</strong></li><br>
   <li><strong>DACON ) </strong><a href="https://dacon.io/competitions/official/235683/overview/description">2020 DACON CUP GA 데이터</a> <strong>29위 / 483팀 참가</strong></li><br>
   <li><strong>LG ) </strong><a href="https://dacon.io/competitions/official/235687/overview/description">시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회</a> <strong>60위 / 1374팀 참가</strong></li>
 </ul><br>
