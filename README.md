@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 <strong>2019</strong><hr/>
 <ul>
   <li><a href="https://www.cityu.edu.hk/"><strong>City University of Hong Kong</strong></a> exchange student (7. 10 ~ 8. 7)</li><br>
-  <li><strong>대한민국 교육부 ) </strong>e-ICON World Contest<strong> Mentor </strong>(8. 18 ~ 8. 23)</li>
+  <li><strong>대한민국 교육부 ) </strong><a href="http://e-icon.or.kr/ko/">e-ICON World Contest</a><strong> Mentor </strong>(8. 18 ~ 8. 23)</li>
 </ul><br>
 
 <strong>2020</strong><hr/>
 <ul>
   <li><strong>단국대학교 공학교육혁신센터 ) </strong>공공 데이터를 활용한 IoT 디바이스 만들기 수료 (7. 13 ~ 7. 17)</li><br>
-  <li><strong>단국대학교 SW중심대학사업단 ) </strong>단국대 소·중 데이터 분석 AI 경진대회 <strong>15위 / 104팀 참가</strong></li><br>
-  <li><strong>DACON ) </strong>소설 작가 분류 AI 경진대회 <strong>4위 / 762팀 참가</strong></li><br>
-  <li><strong>NH투자증권 ) </strong>AI야, 진짜 뉴스를 찾아줘! <strong>14위 / 544팀 참가</strong></li><br>
+  <li><strong>단국대학교 SW중심대학사업단 ) </strong><a href="https://dacon.io/competitions/official/235638/overview/description">단국대 소·중 데이터 분석 AI 경진대회</a> <strong>15위 / 104팀 참가</strong></li><br>
+  <li><strong>DACON ) </strong><a href="https://dacon.io/competitions/official/235670/overview/description">소설 작가 분류 AI 경진대회</a> <strong>4위 / 762팀 참가</strong></li><br>
+  <li><strong>NH투자증권 ) </strong><a href="https://dacon.io/competitions/official/235658/overview/description">AI야, 진짜 뉴스를 찾아줘!</a> <strong>14위 / 544팀 참가</strong></li><br>
   <li><strong>과학기술정보통신부 ) </strong>2020 인공지능 경진대회 - NLP를 이용한 증시 지표 예측 <strong>대상 수상</strong></li><br>
-  <li><strong>DACON ) </strong>2020 DACON CUP GA 데이터 <strong>29위 / 483팀 참가</strong></li><br>
-  <li><strong>LG ) </strong>시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 <strong>60위 / 1374팀 참가</strong></li>
+  <li><strong>DACON ) </strong><a href="https://dacon.io/competitions/official/235683/overview/description">2020 DACON CUP GA 데이터</a> <strong>29위 / 483팀 참가</strong></li><br>
+  <li><strong>LG ) </strong><a href="https://dacon.io/competitions/official/235687/codeshare/2108?page=1&dtype=recent&ptype=pub">시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회</a> <strong>60위 / 1374팀 참가</strong></li>
 </ul><br>
 
 <strong>2021</strong><hr/>
