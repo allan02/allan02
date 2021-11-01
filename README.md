@@ -30,14 +30,13 @@ Here are some ideas to get you started:
   <li><strong>NH투자증권 ) </strong><a href="https://dacon.io/competitions/official/235658/overview/description">AI야, 진짜 뉴스를 찾아줘!</a> <strong>14위 / 544팀 참가</strong></li><br>
   <li><strong>과학기술정보통신부 ) </strong>2020 인공지능 경진대회 - NLP를 이용한 증시 지표 예측 <strong>대상 수상</strong></li><br>
   <li><strong>DACON ) </strong><a href="https://dacon.io/competitions/official/235683/overview/description">2020 DACON CUP GA 데이터</a> <strong>29위 / 483팀 참가</strong></li><br>
-  <li><strong>LG ) </strong><a href="https://dacon.io/competitions/official/235687/codeshare/2108?page=1&dtype=recent&ptype=pub">시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회</a> <strong>60위 / 1374팀 참가</strong></li>
+  <li><strong>LG ) </strong><a href="https://dacon.io/competitions/official/235687/overview/description">시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회</a> <strong>60위 / 1374팀 참가</strong></li>
 </ul><br>
 
 <strong>2021</strong><hr/>
 <ul>
-  <li><strong>SW중심대학 ) </strong>SW중심대학 공동해커톤 참가 (2. 4 ~ 2. 6)</li><br>
-  <li><strong>경기대진테크노파크 ) </strong>생활폐기물 데이터와 인공지능(AI)활용 아이디어 해커톤 대회 참가</li><br>
-  <li><strong>DACON ) </strong>운동 동작 분류 AI 경진대회 <strong>32위 / 772팀 참가</strong></li><br>
+  <li><strong>SW중심대학 ) </strong><a href="https://swhackathon.com/">SW중심대학 공동해커톤</a> 참가 (2. 4 ~ 2. 6)</li><br>
+  <li><strong>DACON ) </strong><a href="https://dacon.io/competitions/official/235689/overview/description">운동 동작 분류 AI 경진대회</a> <strong>32위 / 772팀 참가</strong></li><br>
   <li><strong>삼성SDS ) </strong>삼성SDS 2021 하계 알고리즘 특강 수료 (7. 5 ~ 7. 16)</li><br>
   <li><strong>Brno University of Technology ) </strong>Brno International Summer School in Information Technology 수료 (7. 7 ~ 7. 23)</li><br>
   <li><strong>IBK기업은행 ) </strong>IBK기업은행 2021년 하계 청년인턴(25기) <strong>우수인턴</strong></li>
