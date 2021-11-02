@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 <ul>
   <li>컴퓨터활용능력 1급</li><br>
 </ul>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehyeon96)](https://solved.ac/jaehyeon96/)
 
