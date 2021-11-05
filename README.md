@@ -39,12 +39,14 @@ Here are some ideas to get you started:
   <li><strong>DACON ) </strong><a href="https://dacon.io/competitions/official/235689/overview/description">운동 동작 분류 AI 경진대회</a> <strong>32위 / 772팀 참가</strong></li><br>
   <li><strong>삼성SDS ) </strong><a href="https://www.samsungsds.com/kr/company/overview/about_comp_over.html">삼성SDS</a> 2021 하계 알고리즘 특강 수료 (7. 5 ~ 7. 16)</li><br>
   <li><strong>Brno University of Technology ) </strong><a href="https://www.fit.vut.cz/events/bissit/">Brno International Summer School in Information Technology</a> 수료 (7. 7 ~ 7. 23)</li><br>
-  <li><strong>IBK기업은행 ) </strong><a href="https://www.ibk.co.kr/">IBK기업은행</a> 2021년 하계 청년인턴(25기) <strong>우수인턴</strong></li>
+  <li><strong>IBK기업은행 ) </strong><a href="https://www.ibk.co.kr/">IBK기업은행</a> 2021년 하계 청년인턴(25기) <strong>우수인턴</strong></li><br>
+  <li><strong>DGIST ) </strong><a href="https://www.dgist.ac.kr/kr/html/sub03/03010102.html">DGIST 미래자동차연구부</a> (9. 1 ~ )
 </ul><br>
 
 <strong>Certification</strong><hr/>
 <ul>
   <li>컴퓨터활용능력 1급</li><br>
+  <li>한국사능력검정시험 1급</li>
 </ul>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jaehyeon96)](https://solved.ac/jaehyeon96)
