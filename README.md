@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <li><strong>삼성SDS ) </strong><a href="https://www.samsungsds.com/kr/company/overview/about_comp_over.html">삼성SDS</a> 2021 하계 알고리즘 특강 수료 (7. 5 ~ 7. 16)</li><br>
   <li><strong>Brno University of Technology ) </strong><a href="https://www.fit.vut.cz/events/bissit/">Brno International Summer School in Information Technology</a> 수료 (7. 7 ~ 7. 23)</li><br>
   <li><strong>IBK기업은행 ) </strong><a href="https://www.ibk.co.kr/">IBK기업은행</a> 2021년 하계 청년인턴(25기) <strong>우수인턴</strong> (7. 28 ~ 8. 31)</li><br>
-  <li><strong>DGIST ) </strong><a href="https://www.dgist.ac.kr/kr/html/sub03/03010102.html">DGIST 미래자동차연구부</a> (9. 1 ~ )
+  <li><strong>DGIST ) </strong><a href="https://www.dgist.ac.kr/kr/html/sub03/03010102.html">DGIST 미래자동차연구부</a> (9. 1 ~ 12. 31)
 </ul><br>
 
 <strong>Certification</strong><hr/>
