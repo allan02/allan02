@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 
 <strong>Certification</strong><hr/>
 <ul>
+  <li>Azure AI Fundamentals Certification (AI-900)</li><br>
   <li>컴퓨터활용능력 1급</li><br>
-  <li>한국사능력검정시험 1급</li>
+  <li>한국사능력검정시험 1급</li><br>
 </ul>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jaehyeon96)](https://solved.ac/jaehyeon96)
