@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <ul>
   <li><strong>NHN ) </strong><a href="https://www.nhn.com/ko/index.nhn">NHN</a> 데이터운영팀 (1. 3 ~ )<br>
 </ul><br>
+
+<br>
 <strong>Certification</strong><hr/>
 <ul>
   <li>Azure AI Fundamentals Certification (AI-900)</li><br>
