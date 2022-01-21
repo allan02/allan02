@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </ul><br>
 <strong>2022</strong><hr/>
 <ul>
-  <li><strong>NHN ) </strong><a href="https://www.nhn.com/ko/index.nhn">NHN</a> 데이터운영팀(1. 3 ~ )<br>
+  <li><strong>NHN ) </strong><a href="https://www.nhn.com/ko/index.nhn">NHN</a> 데이터운영팀 (1. 3 ~ )<br>
 </ul><br>
 <strong>Certification</strong><hr/>
 <ul>
