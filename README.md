@@ -42,7 +42,10 @@ Here are some ideas to get you started:
   <li><strong>IBK기업은행 ) </strong><a href="https://www.ibk.co.kr/">IBK기업은행</a> 2021년 하계 청년인턴(25기) <strong>우수인턴</strong> (7. 28 ~ 8. 31)</li><br>
   <li><strong>DGIST ) </strong><a href="https://www.dgist.ac.kr/kr/html/sub03/03010102.html">DGIST 미래자동차연구부</a> (9. 1 ~ 12. 31)
 </ul><br>
-
+<strong>2022</strong><hr/>
+<ul>
+  <li><strong>NHN ) </strong><a href="https://www.nhn.com/ko/index.nhn">NHN</a> 데이터운영팀(1. 3 ~ )<br>
+</ul><br>
 <strong>Certification</strong><hr/>
 <ul>
   <li>Azure AI Fundamentals Certification (AI-900)</li><br>
