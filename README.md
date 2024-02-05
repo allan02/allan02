@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 <br>
 <strong>Certification</strong><hr/>
 <ul>
+  <li>정보처리기사</li><br>
+  <li>ADsP</li><br>
   <li>Azure AI Fundamentals Certification (AI-900)</li><br>
   <li>컴퓨터활용능력 1급</li><br>
   <li>한국사능력검정시험 1급</li><br>
