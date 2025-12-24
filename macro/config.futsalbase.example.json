@@ -1,0 +1,40 @@
+{
+  "site": "futsalbase",
+  "base_url": "https://www.futsalbase.com",
+  "paths": {
+    "home": "/home",
+    "login": "/login"
+  },
+  "selectors": {
+    "login": {
+      "username": "input[name='username']",
+      "password": "input[name='password']",
+      "submit": "button[type='submit']"
+    },
+    "post_login_marker": "text=/logout|로그아웃/i"
+  },
+  "reservation": {
+    "dry_run": true,
+    "confirm_flag_required": true,
+    "open_at": null,
+    "timezone": "Asia/Seoul",
+    "notes": "아래는 사이트 구조에 맞게 사용자가 채워야 하는 영역입니다.",
+    "targets": [
+      {
+        "facility_name": "예: 강남 A구장",
+        "date": "2025-01-01",
+        "time": "20:00",
+        "duration_minutes": 120
+      }
+    ],
+    "selectors": {
+      "go_to_schedule": "text=/예약|스케줄|schedule/i",
+      "facility_search_input": "input[placeholder*='검색']",
+      "facility_result_item": "text=예: 강남 A구장",
+      "date_picker": "input[type='date']",
+      "time_slot_button": "text=20:00",
+      "reserve_button": "text=/예약|reserve/i",
+      "final_confirm_button": "text=/확정|결제|confirm|pay/i"
+    }
+  }
+}
